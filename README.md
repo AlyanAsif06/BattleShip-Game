@@ -20,7 +20,7 @@ A Battleship game built in C++ using Raylib. Place your fleet, battle a smart AI
 ---
 
 ## How to Run
-
+> Requires Raylib to be installed — https://www.raylib.com/
 **g++**
 ```
 g++ Game.cpp -o battleship -lraylib
