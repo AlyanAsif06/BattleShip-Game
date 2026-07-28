@@ -2,6 +2,8 @@
 
 A Battleship game built in C++ using Raylib. Place your fleet, battle a smart AI, and climb the leaderboard.
 
+DEMO Gameplay Video : https://youtu.be/ZeKSJytKp0U?si=PFLw9DA83m6jMC2D
+
 ---
 
 ## Features
